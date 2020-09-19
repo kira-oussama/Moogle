@@ -5,7 +5,7 @@ Moogle is a music search app built with reactjs, it searches for songs from Deez
 ## Getting Started
 
 clone the repo to your machine using the following command: 
-`git clone `
+`git clone git@github.com:kira-oussama/Moogle.git`
 
 ### Prerequisites
 

@@ -18,18 +18,18 @@ Give examples
 ### Installing
 
 inside the app directory install the node modules:
-# with npm
+#### with npm
 `npm install` 
-# width yarn
+#### width yarn
 `yarn` 
 `npm start` to run the developpement server 
 
 ## Deployment
 
 run the following command to build the app for production:
-# with npm
+#### with npm
 `npm run build`
-# with yarn
+#### with yarn
 `yarn build`
 
 ## Built With

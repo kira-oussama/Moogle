@@ -1,11 +1,11 @@
-# Project Title
+# Moogle
 
 Moogle is a music search app built with reactjs, it searches for songs from Deezer api and preview a 30 seconds sample.
 
 ## Getting Started
 
-inside the app directory run the command: `npm install` to download the node modules
-run the command `npm start` to run the developpement server 
+clone the repo to your machine using the following command: 
+`git clone `
 
 ### Prerequisites
 
